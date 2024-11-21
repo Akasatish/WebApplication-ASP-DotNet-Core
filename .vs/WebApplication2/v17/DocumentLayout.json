@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\domain\\tokenserver\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\domain\\tokenserver\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\presentation\\filters\\tokenauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\presentation\\filters\\tokenauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\presentation\\controllers\\produitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\presentation\\controllers\\produitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\business\\produitedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\business\\produitedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\presentation\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\presentation\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\domain\\interfaces\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\domain\\interfaces\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|c:\\users\\asus\\source\\repos\\webapplication2\\webapplication2\\infrastructure\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8D1A2E-9B3E-4DDD-92BB-F2F93652C003}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\infrastructure\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "produiteController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Presentation\\Controllers\\produiteController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Presentation\\Controllers\\produiteController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Presentation\\Controllers\\produiteController.cs",
+              "RelativeToolTip": "WebApplication2\\Presentation\\Controllers\\produiteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:35:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProduiteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Business\\ProduiteDAO.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Business\\ProduiteDAO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Business\\ProduiteDAO.cs",
+              "RelativeToolTip": "WebApplication2\\Business\\ProduiteDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:35:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenAuthenticationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Presentation\\Filters\\TokenAuthenticationFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Presentation\\Filters\\TokenAuthenticationFilter.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Presentation\\Filters\\TokenAuthenticationFilter.cs",
+              "RelativeToolTip": "WebApplication2\\Presentation\\Filters\\TokenAuthenticationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:31:18.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:56:24.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\TokenServer\\Token.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Domain\\TokenServer\\Token.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\TokenServer\\Token.cs",
+              "RelativeToolTip": "WebApplication2\\Domain\\TokenServer\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:26:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\Interfaces\\ITokenManager.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Domain\\Interfaces\\ITokenManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\Interfaces\\ITokenManager.cs",
+              "RelativeToolTip": "WebApplication2\\Domain\\Interfaces\\ITokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:55:53.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Presentation\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Presentation\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Presentation\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "WebApplication2\\Presentation\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:53:30.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Infrastructure\\TokenManager.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Infrastructure\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\WebApplication2\\WebApplication2\\Infrastructure\\TokenManager.cs",
+              "RelativeToolTip": "WebApplication2\\Infrastructure\\TokenManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:02:29.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

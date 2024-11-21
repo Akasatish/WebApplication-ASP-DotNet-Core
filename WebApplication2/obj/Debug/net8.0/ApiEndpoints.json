@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "WebApplication2.Controllers.AuthenticateController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Authenticate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.produiteController",
+    "Method": "GetAllProduite",
+    "RelativePath": "api/produite",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.produiteController",
+    "Method": "DeleteProduiteById",
+    "RelativePath": "api/produite",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.produiteController",
+    "Method": "CreateProduite",
+    "RelativePath": "api/produite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produite",
+        "Type": "WebApplication2.Domain.Models.produite",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.produiteController",
+    "Method": "GetProduiteById",
+    "RelativePath": "api/produite/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.produiteController",
+    "Method": "UpdateProduite",
+    "RelativePath": "api/produite/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "produite",
+        "Type": "WebApplication2.Domain.Models.produite",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
